@@ -3,7 +3,7 @@
 
 | | |
 |---|---|
-| 🎓 | First Year B.Sc. IT — VESASC, Mumbai |
+| 🎓 | Second Year B.Sc. IT — VESASC, Mumbai |
 | 💻 | Building web apps with HTML, CSS, PHP & MySQL |
 | 🎨 | Interests: Painting, Digital Art, Web Development |
 
