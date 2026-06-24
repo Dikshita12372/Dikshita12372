@@ -1,5 +1,5 @@
 ## Hi, I'm Dikshita 👋
-**B.Sc. IT Student · Web Developer · Python Learner**
+**B.Sc. IT Student · Web Developer **
 
 | | |
 |---|---|
